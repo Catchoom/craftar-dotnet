@@ -1,9 +1,9 @@
 # craftar-dotnet
-Catchoom's CraftAR APIs implementation for .NET
-For more information on Catchoom APIs: [Catchoom Documentation](http://catchoom.com/documentation)
+Catchoom's Craftar APIs implementation for .NET
+For more information on Catchoom APIs: [Catchoom Documentation](http://documentation.catchoom.com/documentation)
 
 ## Main features
-This is the very first version of CraftAR APIs implementation for .NET. Currently it supports very few features, but it will soon cover the main part of CraftAR [Management API](http://catchoom.com/documentation/management-api/) and [Image Recognition API](http://catchoom.com/documentation/image-recognition-api/).
+This is the very first version of Craftar APIs implementation for .NET. Currently it supports very few features, but it will soon cover the main part of Craftar [Management API](http://documentation.catchoom.com/documentation/management-api/) and [Image Recognition API](http://documentation.catchoom.com/documentation/image-recognition-api/).
 Here is what it can do for you.
 
 ### Items
